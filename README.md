@@ -33,6 +33,9 @@ python plot_neighbors_photoz.py
 - [chapter9](chapter9/Chapter9.ipynb) : 本章介绍了数据的监督分类，使用了一些生成性和区分性的分类器。
 - [chapter10](chapter10/Chapter10.ipynb) : 时间序列分析
 
+## 意见反馈
+
+- 大家有什么需求或者问题欢迎大家提问和改正，[点击这里 ](https://github.com/fenghaotong/MachineLearning/issues/new)
 
 ```python
 
