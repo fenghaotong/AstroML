@@ -23,7 +23,7 @@ python plot_neighbors_photoz.py
 
 - [数据集](dataSet/dataSets.ipynb) : 主要是用到的一些数据集
 - [chapter1](chapter1/Chapter1.ipynb) :本章包含介绍性数字，包括astroML中的几个数据集，以及一些数据可视化策略。
-- [chapter2](chapter2/Chapter2.ipynb) : 本章讨论大数据集的计算策略。
+- [chapter2](chapter2/chapter2.ipynb) : 本章讨论大数据集的计算策略。
 - [chapter3](chapter3/Chapter3.ipynb) : 基本原理, 包括概率和基本的描述性统计。并介绍了几种重要的概率分布函数
 - [chapter4](chapter4/Chapter4.ipynb) : 古典统计判断
 - [chapter5](chapter5/Chapter5.ipynb) : 贝叶斯统计推断
